@@ -3,10 +3,8 @@ import matplotlib.pyplot as plt
 
 (train_images, train_labels), (test_images, test_labels) = mnist.load_data()
 
-print(train_images.ndim)
-print(train_images.shape)
-print(train_images.dtype)
-
+print("training data = dims: {}, shape: {}, dtype: {}".format(
+    train_images.ndim, train_images.shape, train_images.dtype))
 
 digit = train_images[4]
 
