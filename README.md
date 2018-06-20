@@ -1,8 +1,15 @@
 # Keras
 
-In this post, we explore some [#DeepLearning](https://twitter.com/search?q=%23DeepLearning) with the [Keras](https://keras.io/high-level) library for Python.
+> experiments with the [Keras](https://keras.io/high-level) [#DeepLearning](https://twitter.com/search?q=%23DeepLearning) library for Python
 
-This is a whirlwind post that is meant to provide pointers to basic environment setup, quick ramp on neural nets using the [XOR](https://medium.com/@jayeshbahire/the-xor-problem-in-neural-networks-50006411840b) problem, simple training for the [MNIST digit recognition](https://keras.io/datasets/) problem, and some quick samples involving [OpenAI's Gym](https://github.com/openai/gym).
+# Introduction
+
+This is a whirlwind post that is meant to provide:
+
+- pointers to basic environment setup
+- quick ramp on neural nets using the [XOR problem](https://medium.com/@jayeshbahire/the-xor-problem-in-neural-networks-50006411840b)
+- simple training for the [MNIST digit recognition task](https://keras.io/datasets/)
+- samples involving [OpenAI's Gym environment](https://github.com/openai/gym) for reinforcement learning tasks
 
 Links are provided to source blog posts that go into more detail on each of these examples. Our future posts will build on this basic foundation.
 
@@ -267,3 +274,7 @@ And an animation of something resembling:
 ## Conclusion
 
 This was mainly a dip of the toe into these rich topics. We'll be digging into more of the details as we attempt to actually constrct deep nets to solve some more interesting problems.
+
+## License
+
+MIT &copy; [Donald Thompson](http://witt3rd.com)
