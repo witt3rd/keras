@@ -4,6 +4,8 @@
 
 # Introduction
 
+When learning something new, it is often valuable to base it on something trivial and/or familiar, so that you can focus what is new. (To paraphrase a random YouTube comment.)
+
 This is a whirlwind post that is meant to provide:
 
 - pointers to basic environment setup
@@ -15,7 +17,7 @@ Links are provided to source blog posts that go into more detail on each of thes
 
 ## Prerequisites and Setup
 
-{% gist 567d1e52f1e2da4f45ed72e436dc4576 %}
+As this is a fast-moving space, installation and configuration changes almost daily. The following [deep learning gist](https://gist.github.com/witt3rd/567d1e52f1e2da4f45ed72e436dc4576) will be updated semi-regularly.
 
 ## Sample Code
 
